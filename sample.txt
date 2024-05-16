@@ -2,3 +2,4 @@ saru sensei no git command
 nyan nyan neko 
 neko maru
 conflict1
+conflict2
